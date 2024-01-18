@@ -3,10 +3,10 @@
 #include <stdio.h>
 int main(){
 
-printf("Hello! My name is Sujan Bhujel\n");
+printf("Hello! My name is Mr.X\n");
 printf("\tI was born on 28th of May, 2004\n");
 
-puts("\t\tand my  mobile number is 9860206171\n\n\n");
+puts("\t\tand my  mobile number is 987654321 \n\n\n");
 puts("Please don't call me XD");
 
     return 0;
